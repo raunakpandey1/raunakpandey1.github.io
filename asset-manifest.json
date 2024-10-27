@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/raunakpandey1.github.io/static/css/main.31d6cfe0.css",
+    "main.js": "/raunakpandey1.github.io/static/js/main.fa540124.js",
+    "static/media/drycleaner.png": "/raunakpandey1.github.io/static/media/drycleaner.0116242a50171bdd699a.png",
+    "static/media/medstore.png": "/raunakpandey1.github.io/static/media/medstore.f5f21d69edd8fd75a498.png",
+    "static/media/goodfilms.png": "/raunakpandey1.github.io/static/media/goodfilms.044a21744e7117e902cb.png",
+    "static/media/desto.png": "/raunakpandey1.github.io/static/media/desto.fbd89389a8e5777532a4.png",
+    "static/media/portfolio.png": "/raunakpandey1.github.io/static/media/portfolio.ebbc76fa2a109035f6ab.png",
+    "static/media/shellcode.jpeg": "/raunakpandey1.github.io/static/media/shellcode.01dd310d9307bcd9f576.jpeg",
+    "static/media/tictac.png": "/raunakpandey1.github.io/static/media/tictac.08f0e73ad5530c0be50d.png",
+    "static/media/profileImage.jpeg": "/raunakpandey1.github.io/static/media/profileImage.8303e1a745ebfba51947.jpeg",
+    "static/media/clock.png": "/raunakpandey1.github.io/static/media/clock.94c22b78822230963aeb.png",
+    "static/media/softz.png": "/raunakpandey1.github.io/static/media/softz.6bca6f69aac57a69b00e.png",
+    "static/media/manOnTable.svg": "/raunakpandey1.github.io/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/smartcontr.jpeg": "/raunakpandey1.github.io/static/media/smartcontr.9e8509bfc7c5101ea628.jpeg",
+    "static/media/GitHub.svg": "/raunakpandey1.github.io/static/media/GitHub.d8a709cfd5bedb95d3519b9a40edc924.svg",
+    "static/media/LinkedIn.svg": "/raunakpandey1.github.io/static/media/LinkedIn.25911b33c6b02ca6568122a9c33c43f5.svg",
+    "index.html": "/raunakpandey1.github.io/index.html",
+    "static/media/arrowDown.svg": "/raunakpandey1.github.io/static/media/arrowDown.f6f5bddcfaa562422242b1f6aa31e1d6.svg",
+    "main.fa540124.js.map": "/raunakpandey1.github.io/static/js/main.fa540124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.fa540124.js"
+  ]
+}
