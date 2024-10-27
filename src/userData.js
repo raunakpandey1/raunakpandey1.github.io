@@ -149,7 +149,7 @@ const projects = [
         image: PortfolioIcon,
         type: "Web Application",
         techStack: "ReactJS",
-        sourceCode: "hhttps://github.com/raunakpandey1/raunakpandey1.github.io",
+        sourceCode: "https://github.com/raunakpandey1/raunakpandey1.github.io",
         demoLink: "https://raunakpandey1.github.io/",
         shortDescription: "My portfolio build using Reactjs and SASS",
     },
