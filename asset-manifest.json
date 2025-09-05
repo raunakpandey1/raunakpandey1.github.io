@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.65a32ccc.js",
+    "main.js": "/static/js/main.6de73380.js",
     "static/media/drycleaner.png": "/static/media/drycleaner.0116242a50171bdd699a.png",
     "static/media/medstore.png": "/static/media/medstore.f5f21d69edd8fd75a498.png",
     "static/media/goodfilms.png": "/static/media/goodfilms.044a21744e7117e902cb.png",
     "static/media/desto.png": "/static/media/desto.fbd89389a8e5777532a4.png",
-    "static/media/portfolio.png": "/static/media/portfolio.ebbc76fa2a109035f6ab.png",
+    "static/media/Ecochain.png": "/static/media/Ecochain.3a7b055d131ffab0ee0b.png",
+    "static/media/portfolio.png": "/static/media/portfolio.07c2c8b726a92d16207a.png",
     "static/media/shellcode.jpeg": "/static/media/shellcode.01dd310d9307bcd9f576.jpeg",
     "static/media/tictac.png": "/static/media/tictac.08f0e73ad5530c0be50d.png",
     "static/media/profileImage.jpeg": "/static/media/profileImage.8303e1a745ebfba51947.jpeg",
@@ -18,10 +19,10 @@
     "static/media/LinkedIn.svg": "/static/media/LinkedIn.25911b33c6b02ca6568122a9c33c43f5.svg",
     "index.html": "/index.html",
     "static/media/arrowDown.svg": "/static/media/arrowDown.f6f5bddcfaa562422242b1f6aa31e1d6.svg",
-    "main.65a32ccc.js.map": "/static/js/main.65a32ccc.js.map"
+    "main.6de73380.js.map": "/static/js/main.6de73380.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.65a32ccc.js"
+    "static/js/main.6de73380.js"
   ]
 }
