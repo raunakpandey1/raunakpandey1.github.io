@@ -32,7 +32,7 @@ const whatIDo = {
     // cgpa : "CGPA - 9.29/10.0",
     location: "Buffalo, New York",
     aboutTitle: "Crazy Full Stack Developer Who Wants to Explore Every Tech Stack",
-    whatIDoDescription: "~  Develop highly interactive and user-friendly frontends for web applications. <br></br>~  Build and maintain efficient backend services and APIs. <br></br>~  Work with databases like PostgreSQL and MongoDB to deliver complete solutions.",
+    whatIDoDescription: "~  Develop highly interactive and user-friendly frontends for web applications.  <br></br>~ Working on multiple Machine Learning and Computer Vision Projects and planning my research work. <br></br>~  Build and maintain efficient backend services and APIs. <br></br>~  Work with databases like PostgreSQL and MongoDB to deliver complete solutions.",
 }
 
 const experiences = [
