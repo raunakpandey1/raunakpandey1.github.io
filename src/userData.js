@@ -9,6 +9,7 @@ import MedIcon from './assets/projects/medstore.png'
 import DestoIcon from './assets/projects/desto.png'
 import PortfolioIcon from './assets/projects/portfolio.png'
 import DryIcon from './assets/projects/drycleaner.png'
+import EcoChain from './assets/projects/Ecochain.png'
 import ClockIcon from './assets/projects/clock.png'
 import SmartContractIcon from './assets/projects/smartcontr.jpeg'
 import TicTacIcon from './assets/projects/tictac.png'
@@ -16,16 +17,22 @@ import FilmIcon from './assets/projects/goodfilms.png'
 
 const intro = {
     name: "Raunak Kumar Pandey",
-    shortTitle: "Full Stack Software Developer",
-    description: "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Java / SpringBoot / Reactjs / JavaScript  / Nodejs and some other cool libraries and frameworks.Also, I love doing competitive programming and solved more than 700+ problems on various coding platforms. ",
-}
+    shortTitle: "Aspiring AI Engineer & Researcher | Full-Stack Developer",
+    description: `I’m a Full-Stack Software Engineer with experience in building 
+    scalable web applications using Java, Spring Boot, Python, React.js, JavaScript,
+     and Node.js, along with a variety of modern libraries and frameworks. Currently, 
+     I’m pursuing my Master’s in Computer Science at the University at Buffalo, SUNY, 
+     where I’m deepening my expertise in Machine Learning, Computer Vision, and 
+     Research, exploring how intelligent systems can be built and applied to 
+     real-world challenges.`
+    }
 
 const whatIDo = {
-    education: "B.E Computer Engineering (University of Mumbai)",
-    cgpa : "CGPA - 9.29/10.0",
-    location: "Mumbai, Maharashtra, India",
+    education: "Masters of Science in Computer Science (Research) at University at Buffalo, SUNY - (Fall 2025 - June 2027)",
+    // cgpa : "CGPA - 9.29/10.0",
+    location: "Buffalo, New York",
     aboutTitle: "Crazy Full Stack Developer Who Wants to Explore Every Tech Stack",
-    whatIDoDescription: "~  Develop highly interactive Frontend / User Interfaces for web applications. <br></br>~  Refactor and optimize codebases using clean code architecture principles to boost scalability, readability, and maintainability for future development and iterations. <br></br>~  Perform comprehensive debugging, unit testing, and integration testing to deliver high-quality, error-free applications with robust and reliable performance..",
+    whatIDoDescription: "~  Develop highly interactive and user-friendly frontends for web applications. <br></br>~  Build and maintain efficient backend services and APIs. <br></br>~  Work with databases like PostgreSQL and MongoDB to deliver complete solutions.",
 }
 
 const experiences = [
@@ -39,24 +46,27 @@ const experiences = [
                 duration: "1.1 Years",
                 employmentType: "Full-Time",
                 fromDate: "Aug 2023",
-                toDate: "Present",
+                toDate: "Aug 2025",
                 description: [
-                    "Contributed to the development of code generators using yeoman and Java code parser using JavaParser to automate the software development.",
-                    "Developed backend features, dynamic web pages, and reusable React components, improving platform scalability and code reusability by 50%.",
-                    "Performed unit and integration testing using JUnit and Mockito, resolving bugs and reducing defects by 30%.",
-                    "Skills: Java, SpringBoot, JavaScript, ReactJs with TypeScript."
+                    "Contributed in SDK development which abstract various agentic-frameworks to create multi-purposive agents.",
+                    "Developed forward and reverse code generation tools for Java and created 10+ REST endpoints from scratch.",
+                    "Implemented authentication and authorization using Spring Security with JWT and OAuth.",
+                    "Developed dynamic web pages, and React components, improving scalability and code reusability by 30%",
+                    "Performed unit and integration testing using JUnit and Mockito, resolving bugs and reducing defects by 40%.",
+                    "Skills: Java, SpringBoot, Python, JavaScript, SQL."
                 ],
             },
             {
                 role: "Project Intern",
                 duration: "3 Months",
-                employmentType: "Part-Time",
+                employmentType: "Internship",
                 fromDate: "Feb 2023",
                 toDate: "May 2023",
                 description: [
-                    "Created a dynamic web application which enhanced data representation capabilities, leading to a 70% improvement in decision-making efficiency.",
-                    "The application featured a variety of charts (bar, pie, pareto) to visualize and represent data analysis.",
-                    "Skills : HTML , CSS , Python , Django , MySQL."
+                    "Performed sentiment analysis using Hugging Face Transformers and the SiEBERT model to extract insights.",
+                    `Created a dynamic web application that enhanced data representation and improved decision-making efficiency by
+70%, featuring interactive charts such as bar, pie, and Pareto for effective data visualization.`,
+                    "Skills : Python, NLP, Javascript, Django, SQL."
                 ],
             }
         ],
@@ -70,7 +80,7 @@ const experiences = [
             {
                 role: "Full Stack Web Developer",
                 duration: "10 Months",
-                employmentType: "Internship",
+                employmentType: "Part Time Internship",
                 fromDate: "Sept 2021",
                 toDate: "June 2022",
                 description: [
@@ -88,7 +98,7 @@ const experiences = [
             {
                 role: "Full Stack Web Developer",
                 duration: "6 Months",
-                employmentType: "Internship",
+                employmentType: "Part Time Internship",
                 fromDate: "Dec 2021",
                 toDate: "May 2022",
                 description: [
@@ -139,7 +149,7 @@ const projects = [
         name: "Medstore-mern",
         image: MedIcon,
         type: "Web Application",
-        techStack: "ReactJS NodeJS ExpressJS MongoDB",
+        techStack: "ReactJS SpringBoot NodeJS ExpressJS MongoDB",
         sourceCode: "https://github.com/raunakpandey1/Medstore-mern",
         demoLink: "https://medstore.onrender.com/",
         shortDescription: "Medical E-commerce Web Application. It can be used by both customers and sellers for purchasing and selling medical essentials.",
@@ -161,6 +171,14 @@ const projects = [
         sourceCode: "https://github.com/raunakpandey1/desto",
         demoLink: "https://desto.onrender.com/",
         shortDescription: "Desto is a web application which upload the contents to IPFS by using web3.storage.",
+    },
+    {
+        name: "EcoChain",
+        image: EcoChain,
+        type: "Web Application",
+        techStack: "ReactJS Hardhat Ether.js Solidity Pinata (Media Storage)",
+        sourceCode: "https://github.com/raunakpandey1/Hackformers_Brocode_07",
+        shortDescription: "EcoChain is a DApp which allows users to report any illogical activities detrimental to the environment and get rewards from administration in cryptocurrency.",
     },
     {
         name: "DryCleaner",
@@ -219,9 +237,18 @@ const certificates = [
         title: "TCS",
         image: "https://github.com/user-attachments/assets/561cf5a0-cee6-497d-988d-92f1a2dd6ffb",
     },
+    
     {
         title: "Google KickStart",
         image: "https://github.com/user-attachments/assets/36be45bc-d6e5-4bdc-a7e2-39859ab5a01c"
+    },
+    {
+        title: "ML",
+        image: "https://github.com/user-attachments/assets/944551b7-3d2a-415d-af1d-86ac1e6706e3"
+    },
+    {
+        title: "Deep Learning",
+        image: "https://github.com/user-attachments/assets/5c64fe23-17d1-49d0-b359-f6a242d300f3"
     },
     {
         title: "ShellCode Completion",
@@ -252,14 +279,7 @@ const certificates = [
         title: "Javascript",
         image: "https://github.com/user-attachments/assets/ade143e2-6e89-44d2-ae93-0699a6a47607"
     },
-    {
-        title: "ML",
-        image: "https://github.com/user-attachments/assets/944551b7-3d2a-415d-af1d-86ac1e6706e3"
-    },
-    {
-        title: "Deep Learning",
-        image: "https://github.com/user-attachments/assets/5c64fe23-17d1-49d0-b359-f6a242d300f3"
-    },
+    
     {
         title: "Python",
         image: "https://github.com/user-attachments/assets/c249da7e-5214-45a6-92be-8ca33d65874a"
